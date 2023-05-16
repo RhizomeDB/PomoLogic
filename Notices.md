@@ -22,6 +22,16 @@ Specification version: 0.1.0 or later
 
 ---------------------------------------------------------------------------------
 
+Licensee’s name: Mikayla Maki
+
+Authorized individual and system identifier: mikayla-maki
+
+Specification version: 0.1.0 or later
+
+
+
+---------------------------------------------------------------------------------
+
 ## Withdrawals
 
 Name of party withdrawing:
